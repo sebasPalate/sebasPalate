@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hi, i'm <a href="#">Sebas</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="#">Sebas</a> 👋</h1>
 
   My experience is based on the execution and collaboration in various projects throughout my stay at the university. In this context, I have had the opportunity to explore and work with a wide variety of tools and technologies, thus enriching my skill set and knowledge.
 </div>
 
 <!-- <img src="https://i.imgur.com/banner.png"> -->
 
-## About me
+## 🙎🏻 About me
 
 - 📚 Currently, I am a software student at the Technical University of Ambato
 - 📝 I have a great interest in Software Engineering and Design
@@ -15,7 +15,7 @@
 
 <br>
 
-## Contact me
+## 📄 &nbsp;Contact me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastianpalate1/">
