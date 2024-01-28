@@ -8,15 +8,18 @@
 - 📲 Developer FRN
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linkedin,instagram,gmail" />
-  </a>
-</p>
+## Sobre mi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gps,git,github,github,java,linux,mysql,nginx,nodejs,postman,prisma,py,vscode,linux,js,firebase,css" />
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+  </a>
+</p>
+
+## Sobre mi
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gps,github,java,linux,mysql,nginx,nodejs,postman,prisma,py,vscode,linux,js,firebase,css" />
   </a>
 </p>
 
