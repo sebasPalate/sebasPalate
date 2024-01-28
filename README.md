@@ -1,14 +1,20 @@
 <div align="center">
 <h1 align="center">Hi, i'm <a href="">Sebas</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-## Sobre mi
+<!-- <img src="https://i.imgur.com/banner.png"> -->
 
-- 📲 Developer FRN
+## About me
+
+- 💻 I'm Sebas, a developer
+- 📚 Currently, I am a software student at the Technical University of Ambato
+- 📝 I have a great interest in Software Engineering and Design
+- 🚩 Interested in server-side application development
+- 😃 I hope to collaborate on impactful projects.
+
 <br>
 
-## Sobre mi
+## Contact me
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +22,7 @@
   </a>
 </p>
 
-## Sobre mi
+## Tools and Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gps,github,java,linux,mysql,nginx,nodejs,postman,prisma,py,vscode,linux,js,firebase,css" />
