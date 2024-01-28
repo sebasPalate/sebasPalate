@@ -8,7 +8,17 @@
 - 📲 Developer FRN
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linkedin,instagram,gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gps,git,github,github,java,linux,mysql,nginx,nodejs,postman,prisma,py,vscode,linux,js,firebase,css" />
+  </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
