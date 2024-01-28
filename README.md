@@ -31,10 +31,10 @@
     <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
   </a>
    <a>
-    <img src="https://skillicons.dev/icons?i=vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=git,gcp,github,nginx,nodejs,postman,firebase,opencv,react&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,gcp,nginx,nodejs,opencv" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
