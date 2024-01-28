@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea" />
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=git,gcp,github,nginx,nodejs,postman,firebase,opencv,react" />
+    <img src="https://skillicons.dev/icons?i=git,gcp,github,nginx,nodejs,postman,firebase,opencv,react&perline=3" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
