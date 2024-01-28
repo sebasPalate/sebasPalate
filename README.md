@@ -28,25 +28,15 @@
 
 ## 🛠️ &nbsp;Tools and Frameworks
 <p align="center">
-  <a>
     <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
-  </a>
-   <a>
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
-  </a>
-  <a>
     <img src="https://skillicons.dev/icons?i=react,gcp,nginx,nodejs,opencv" />
-  </a>
-  <a>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-  </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/sebasPalate">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebasPalate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebasPalate&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
