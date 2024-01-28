@@ -17,15 +17,24 @@
 ## Contact me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+  <a href="https://www.linkedin.com/in/sebastianpalate1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/sebastianpalate1/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 ## 🛠️ &nbsp;Tools and Frameworks
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gps,github,java,linux,mysql,nginx,nodejs,postman,prisma,py,vscode,linux,js,firebase,css" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=git,gcp,github,java,linux,nginx,nodejs,postman,py,vscode,linux,js,firebase,css,idea,opencv,react" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
   </a>
 </p>
 
