@@ -30,7 +30,6 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
-    <img src="https://skillicons.dev/icons?i=react,gcp,nginx,nodejs,opencv" />
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
 </p>
 
