@@ -28,7 +28,7 @@
 
 ## 🛠️ &nbsp;Tools and Frameworks
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
 </p>
