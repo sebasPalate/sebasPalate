@@ -30,8 +30,11 @@
   <a>
     <img src="https://skillicons.dev/icons?i=java,linux,py,js,css" />
   </a>
+   <a>
+    <img src="https://skillicons.dev/icons?i=vscode,idea" />
+  </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=git,gcp,github,java,linux,nginx,nodejs,postman,py,vscode,linux,js,firebase,css,idea,opencv,react" />
+    <img src="https://skillicons.dev/icons?i=git,gcp,github,nginx,nodejs,postman,firebase,opencv,react" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
