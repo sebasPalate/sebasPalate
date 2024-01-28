@@ -8,7 +8,6 @@
 
 ## About me
 
-- 💻 I'm Sebas, a developer
 - 📚 Currently, I am a software student at the Technical University of Ambato
 - 📝 I have a great interest in Software Engineering and Design
 - 🚩 Interested in server-side application development
