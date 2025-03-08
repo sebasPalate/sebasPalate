@@ -4,13 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-@sebastianpalate1-blue)](https://www.linkedin.com/in/sebastianpalate1/)
 [![Instagram](https://img.shields.io/badge/instagram-@sebastianpalate1-red?style=flat)](https://www.instagram.com/sebastianpalate1/)
 
-sw student with experience working closely with the tech industry. My ability to adapt to new tools and technologies has allowed me to develop a strong and practical approach in the field.
+SW student with hands-on experience in the tech industry. My adaptability to new tools and technologies has enabled me to develop a strong, practical approach to problem-solving and software development.
 
 ## Experience
 
-- Front-end development using **HTML, JavaScript, CSS, TailwindCSS**.
+- Frontend development using **HTML, JavaScript, CSS, TailwindCSS**.
 - Backend development using **Spring Boot (Still learning) and Django**.
-- Building and optimizing **Relational Database Management Systems (RDBMS)**.
 - Designing and implementing **robust full-stack systems**.
 - Web application development using **Next.js and Angular**.
 - Creating scalable cloud architectures with **AWS Cloud**.
@@ -31,6 +30,7 @@ sw student with experience working closely with the tech industry. My ability to
   </a>
 </p>
 
+
 ## GitHub Analytics
 
 <p align="center">
@@ -38,3 +38,10 @@ sw student with experience working closely with the tech industry. My ability to
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasPalate&theme=dark&layout=donut" />
 </p>
 
+## My Dev Playlists
+
+<div align="center">
+  
+  [![Spotify](https://img.shields.io/badge/ovipw2-gray?style=flat&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/0mdIvzMdEL4hdiTqLjHUXU?si=kOR7wJeeThCocM3KtKdetg)
+  [![Spotify](https://img.shields.io/badge/levting-black?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55cozJJdBDr92Dev9O4uo9?si=lR27q0UqSKWhqr0sYzO53Q)
+</div>
