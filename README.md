@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-@sebastianpalate1-blue)](https://www.linkedin.com/in/sebastianpalate1/)
 [![Instagram](https://img.shields.io/badge/instagram-@sebastianpalate1-red?style=flat)](https://www.instagram.com/sebastianpalate1/)
 
-SW student with hands-on experience in the tech industry. My adaptability to new tools and technologies has enabled me to develop a strong, practical approach to problem-solving and software development.
+SW engineer with hands-on experience in the tech industry. My adaptability to new tools and technologies has enabled me to develop a strong, practical approach to problem-solving and software development.
 
 ## Experience
 
