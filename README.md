@@ -1,44 +1,36 @@
 # Hey, I'm Sebas
 
-[![Personal Website](https://img.shields.io/website?style=&up_message=seblvting&url=https%3A%2F%2Fseblvting.vercel.app)](https://seblvting.vercel.app)
+[![Website](https://img.shields.io/website?up_message=seblvting&url=https%3A%2F%2Fseblvting.vercel.app)](https://seblvting.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-@sebastianpalate1-blue)](https://www.linkedin.com/in/sebastianpalate1/)
-[![Instagram](https://img.shields.io/badge/instagram-@sebastianpalate1-red?style=flat)](https://www.instagram.com/sebastianpalate1/)
+[![Instagram](https://img.shields.io/badge/instagram-@sebastianpalate1-red)](https://www.instagram.com/sebastianpalate1/)
 
-SW engineer with hands-on experience in the tech industry. My adaptability to new tools and technologies has enabled me to develop a strong, practical approach to problem-solving and software development.
+Software Engineer passionate about building scalable, user-centric applications. I enjoy blending clean design with robust backend systems, and I’m constantly improving my skills in full-stack development & cloud architectures.  
 
-## Experience
+<!-- ## 🚀 Featured Projects
+- [**Factx**](https://github.com/sebasPalate/taskify) – Real-time productivity web app with Next.js & Django.  
+- [**JCI Ambato**](https://github.com/sebasPalate/ai-notes) – Note-taking app powered by AI summarization.  
+- [**Portfolio v1**](https://github.com/sebasPalate/seblvting) – Interactive personal portfolio with animations.  -->
 
-- Frontend development using **HTML, JavaScript, CSS, TailwindCSS**.
-- Backend development using **Spring Boot (Still learning) and Django**.
-- Designing and implementing **robust full-stack systems**.
-- Web application development using **Next.js and Angular**.
-- Creating scalable cloud architectures with **AWS Cloud**.
-- Practicing **Data Structures and Algorithms** in **Java and Python** to improve problem-solving skills.
 
-## Tools of Trade
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nextjs,tailwind" />
-    <img src="https://skillicons.dev/icons?i=spring,django" />
-  </a>
-</p>
+**Frontend:** HTML, CSS, JavaScript, TailwindCSS, Next.js, Angular  
+**Backend:** Django, Spring Boot (deepening expertise)  
+**Cloud & DevOps:** AWS Cloud, scalable architectures  
+**Other:** Data Structures & Algorithms in Java & Python  
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,idea,webstorm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,tailwind,spring,django,aws" />
 </p>
 
 
-## GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebasPalate&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasPalate&theme=dark&layout=donut" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebasPalate&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> 
 </p>
 
-## My Dev Playlists
+## 🎶 My Dev Playlists  
 
 <div align="center">
   
